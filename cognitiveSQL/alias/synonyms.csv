@@ -1,0 +1,18 @@
+sum,total number,how many
+min,minimum,lowest,low,least
+max,maximum,max,highest,high,more
+datatype trend dq_score,dq trend,dq trending,dcu trend,dcu trending,quality trend,quality trending
+dimension failcount known_issues,known issues
+score dq_score,dq score,dcu score,quality score
+datatype,data type
+country,countries
+country uk,uk,u.k.,u. k.
+country france,france
+country italy,italy
+country germany,germany
+country spain,spain
+failcount known_issues,total issues
+inquiry_count,inquiry,inquiries,enquiry,enquiries
+inquiry_month,months,month
+inquiry_year,years,year
+product,products
