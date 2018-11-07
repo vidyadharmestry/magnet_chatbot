@@ -1,1 +1,1 @@
-"# magnet_chatbot" 
+"# medical-affair-assistant"
