@@ -311,7 +311,7 @@ def processRequest(req):
         req.get("queryResult").get("parameters").get("time-period") != ""):
             if (req.get("queryResult").get("parameters").get("time-period").get("startTime") != "") and (
                 req.get("queryResult").get("parameters").get("time-period").get("endTime") != "") :
-                    return return {
+                    return {
                         "fulfillmentText": "Thank you for your time. We are processing your request, you will hear from us shortly",
                         "fulfillmentMessages": [{
                             "text": ["Thank you for your time. We are processing your request, you will hear from us shortly"]
